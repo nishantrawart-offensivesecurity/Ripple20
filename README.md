@@ -3,6 +3,10 @@
 <p align="center">
   <img width="230" height="150" src="r20_logo.png">
 </p>
+
+<br>
+Ripple20 is a set of 19 vulnerabilities discovered in 2020 within a TCP/IP software library developed by Treck, Inc
+</br>
   
 ## Summary:  
 A Zeek package for the passive detection of Treck devices, discovery/scanning attempts and exploitation of the "Ripple20" set of vulnerabilities in the Treck TCP/IP stack. 
